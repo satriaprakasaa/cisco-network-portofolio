@@ -11,7 +11,7 @@ Mengimplementasikan infrastruktur jaringan enterprise dengan tingkat ketersediaa
 
 ### Network Topology
 <!-- TARIK DAN LEPAS (DRAG & DROP) GAMBAR TOPOLOGI HSRP KAMU DI BAWAH INI -->
-<img width="1356" height="670" alt="image" src="https://github.com/user-attachments/assets/e0bf8f78-d857-485d-96ca-bc6509f46ea9" />
+<img width="1360" height="690" alt="image" src="https://github.com/user-attachments/assets/dd05d1fd-e4b9-4cee-aa44-05a97843d799" />
 
 
 ### Addressing & Device Specifications
