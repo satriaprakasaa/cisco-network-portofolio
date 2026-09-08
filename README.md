@@ -4,7 +4,7 @@ Kumpulan proyek simulasi dan implementasi arsitektur jaringan skala Small-Medium
 
 ---
 
-## 📌 Proyek 1: Enterprise Network Gateway Redundancy with HSRP & Auto-DHCP
+## Enterprise Network Gateway Redundancy with HSRP & Auto-DHCP
 
 ### Overview
 Mengimplementasikan infrastruktur jaringan enterprise dengan tingkat ketersediaan tinggi (*High Availability / Zero Single Point of Failure*) menggunakan Hot Standby Router Protocol (HSRP). Sistem melakukan failover otomatis saat terjadi gangguan pada router utama tanpa mengganggu konektivitas *end-user*.
