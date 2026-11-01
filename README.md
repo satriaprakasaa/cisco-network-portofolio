@@ -1,4 +1,4 @@
-# 🌐 Cisco Network Engineering Portfolio
+# 🌐 [PERSONAL PROJECT] Cisco Network Engineering Portfolio
 
 Kumpulan proyek simulasi dan implementasi arsitektur jaringan skala *Small-Medium Enterprise* (SME) serta *Enterprise Infrastructure* menggunakan Cisco Packet Tracer.
 
